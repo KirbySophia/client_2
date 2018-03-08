@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+    <head><br>
+        <meta charset="utf-8">
+        <title>H6</title>
+        <center><h2 class="cursive"> Power Supplies </h2></center>
+        <style>
+            body{ 
+                background-color:beige;
+                
+            }
+            .story-title {
+                font-family: cursive;
+                
+            }
+            code
+                {
+                 font-family:serif;   
+            }
+       
+        </style>
+    </head>
+    <style></style>
+    <body>
+    <h5> table of contents 
+    
+    
+    
+    <h2> thats wanted..
+    <p>5 computers with powerful system that can play the newest games and able to programs. 
+Would like linux.All computer to be similar, mechanical keyboards, and a mouse with many button options.<br> Would like it to be cheapest as possible.
+</P>
+<table>
+        <thead>
+            <tr>
+                <th>project</th>
+                <th>Price</th>
+                
+            </tr>
+        </thead>
+          <tbody>
+            <tr>
+                <td>16:9 Monitor</td>
+                <td>$99.99</td>
+            </tr>
+            <tr>
+                <td>cpu</td>
+                <td>$30.20</td>
+               </tr>
+            <tr>
+                <td>>Rosewill - RCX-Z90-AL 66.0 CFM Sleeve Bearing CPU Cooler
+</td>
+                <td>$9.99</td>
+              </tr>
+             <tr>
+                <td>>Asus - P5P43TD ATX LGA775 Motherboard</td>
+                <td>$1500</td>
+                </tr>
+             <tr>
+                <td>>G.Skill - Ripjaws X Series 16GB (2 x 8GB) DDR3-1600 Memory 
+</td>
+                <td>$158.99</td>
+               </tr>
+             <tr>
+                <td>>Western Digital - Blue 250GB 2.5" Solid State Drive storage
+</td>
+                <td>$141.24</td>
+            </tr>
+             <tr>
+                <td>>MSI - GeForce GT 710 2GB Video Card
+</td>
+                <td>$63.88</td>
+         </tr>
+         <tr>
+         <td></td>
+         <td></td>
+         </tr>
+         
+        </tbody>
+    </table>
+
+  
+</body>
+</html>
